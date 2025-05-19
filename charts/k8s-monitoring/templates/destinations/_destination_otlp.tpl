@@ -169,7 +169,7 @@ otelcol.processor.transform {{ include "helper.alloy_name" .name | quote }} {
 {{- end }}
 {{- if .processors.transform.logs.resource }}
 {{- range $transform := .processors.transform.logs.resource }}
-{{ $transform | quote | indent 6 }},
+{{ $transform | indent 6 }},
 {{- end }}
 {{- end }}
     ]
