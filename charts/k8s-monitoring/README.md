@@ -133,11 +133,11 @@ podLogs:
 | file://../feature-pod-logs | podLogs(k8s-monitoring-feature-pod-logs) | 1.0.0 |
 | file://../feature-profiling | profiling(k8s-monitoring-feature-profiling) | 1.0.0 |
 | file://../feature-prometheus-operator-objects | prometheusOperatorObjects(k8s-monitoring-feature-prometheus-operator-objects) | 1.0.0 |
-| https://grafana.github.io/helm-charts | alloy-metrics(alloy) | 0.10.1 |
-| https://grafana.github.io/helm-charts | alloy-singleton(alloy) | 0.10.1 |
-| https://grafana.github.io/helm-charts | alloy-logs(alloy) | 0.10.1 |
-| https://grafana.github.io/helm-charts | alloy-receiver(alloy) | 0.10.1 |
-| https://grafana.github.io/helm-charts | alloy-profiles(alloy) | 0.10.1 |
+| https://grafana.github.io/helm-charts | alloy-metrics(alloy) | 1.0.3 |
+| https://grafana.github.io/helm-charts | alloy-singleton(alloy) | 1.0.3 |
+| https://grafana.github.io/helm-charts | alloy-logs(alloy) | 1.0.3 |
+| https://grafana.github.io/helm-charts | alloy-receiver(alloy) | 1.0.3 |
+| https://grafana.github.io/helm-charts | alloy-profiles(alloy) | 1.0.3 |
 <!-- markdownlint-enable no-bare-urls -->
 
 ## Values
